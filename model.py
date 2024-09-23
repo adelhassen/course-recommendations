@@ -95,7 +95,7 @@ if __name__ == "__main__":
 
     # User provides information on desired course
     user_text = """
-    I'm looking for a data science course that covers both the fundamentals and some advanced techniques. Ideally, it would include Python, data visualization, and machine learning.
+    I'm interested in learning NLP techniques using Python. I'd like a course that covers text preprocessing, sentiment analysis, and topic modeling.
     """
 
     user_text_preprocessed = preprocess_text(user_text)
