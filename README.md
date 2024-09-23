@@ -14,6 +14,7 @@ Our content-based approach leverages the power of embeddings to find the best co
 
 **Output**: 
 
+![Example output](https://github.com/adelhassen/gtech-course-recommender/blob/fc2e694a25148ca2a77010ed31155532d8569608/example_output.png)
 
 ### Reproducibility Steps
 
