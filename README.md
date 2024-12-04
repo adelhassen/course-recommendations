@@ -41,9 +41,3 @@ python data_processing.py
 ```
 python model.py
 ```
-
-### Notice
-
-**This project is proprietary and closed-source. No part of this repository may be copied, modified, distributed, or used without the author's explicit permission.**
-
-
